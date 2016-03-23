@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+
+# Specify your gem's dependencies in bootstrap-form.gemspec
+gemspec
+
+gem 'railties', '5.0.0.beta3'
+gem 'actionpack', '5.0.0.beta3'
