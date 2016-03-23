@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "bootstrap-form"
   s.version     = Bootstrap::Form::VERSION
   s.authors     = ["David Padilla"]
-  s.email       = ["david@crowdint.com"]
+  s.email       = ["david@padilla.io"]
   s.homepage    = ""
   s.summary     = %q{Twitter Bootstrap Form helpers}
   s.description = %q{Twitter Bootstrap Form helpers}
